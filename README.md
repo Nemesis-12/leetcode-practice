@@ -1,2 +1,4 @@
-# leetcode-practice
-This repo has been created for the Leetcode problems I solved
+# Leetcode
+This repository contains my solutions for Leetcode problems. The code for each problem will be updated until I manage to get the best result.
+
+### Problems List
